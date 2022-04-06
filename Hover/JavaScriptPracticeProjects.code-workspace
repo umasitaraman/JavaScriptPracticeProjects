@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../Data"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../MonkeyPeakABoo"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Hover"
+	}
+}
